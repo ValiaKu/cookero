@@ -1,0 +1,17 @@
+.nav {
+  grid-area: n;
+  background-color: firebrick;
+}
+.item {
+  color: white;
+}
+.item.active {
+  color: red;
+}
+.item a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+.item a.active {
+  color: blueviolet;
+}
